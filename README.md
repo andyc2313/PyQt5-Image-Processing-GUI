@@ -24,11 +24,6 @@ A user-friendly image processing application built with **PyQt5**. This graphica
 
 ---
 
-## 🖼️ Preview  
-*(可以放 GUI 截圖這一區)*
-
----
-
 ## 🛠️ Requirements
 
 - Python 3.8+
