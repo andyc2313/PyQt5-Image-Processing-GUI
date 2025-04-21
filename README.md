@@ -7,16 +7,13 @@ A user-friendly image processing application built with **PyQt5**. This graphica
 - 📂 **Image Loading & Display**  
   Load and view images in the GUI using QFileDialog and QLabel.
 
-- ✂️ **Region Selection**  
-  Draw rectangular selections on the image for focused operations.
-
 - 🔄 **Geometric Transformations**  
   Rotate, flip, and translate selected image areas.
 
-- 🌊 **Wavelet Fusion (小波融合)**  
+- 🌊 **Wavelet Fusion **  
   Merge two images using Haar wavelet-based image fusion techniques.
 
-- 🎨 **Basic Enhancement** *(可擴充)*  
+- 🎨 **Basic Enhancement**  
   Brightness/contrast adjustments and grayscale conversion.
 
 - 💾 **Save Processed Images**  
