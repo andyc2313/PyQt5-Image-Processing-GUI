@@ -9,12 +9,15 @@ A user-friendly image processing application built with **PyQt5**. This graphica
 
 - 🔄 **Geometric Transformations**  
   Rotate, flip, and translate selected image areas.
+  ![GUI Screenshot](Geometric Transformations.png)
 
-- 🌊 **Wavelet Fusion **  
+- 🌊 **Wavelet Fusion**  
   Merge two images using Haar wavelet-based image fusion techniques.
+  ![GUI Screenshot](Wavelet Fusion.png)
 
 - 🎨 **Regional_Segmentation**  
   Segment specific regions of the image for focused processing and analysis.
+  ![GUI Screenshot](Regional_Segmentationn.png)
 
 - 💾 **Save Processed Images**  
   Export the edited image with a single click.
