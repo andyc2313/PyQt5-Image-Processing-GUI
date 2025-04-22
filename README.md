@@ -13,8 +13,8 @@ A user-friendly image processing application built with **PyQt5**. This graphica
 - 🌊 **Wavelet Fusion **  
   Merge two images using Haar wavelet-based image fusion techniques.
 
-- 🎨 **Basic Enhancement**  
-  Brightness/contrast adjustments and grayscale conversion.
+- 🎨 **Regional_Segmentation**  
+  Segment specific regions of the image for focused processing and analysis.
 
 - 💾 **Save Processed Images**  
   Export the edited image with a single click.
