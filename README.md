@@ -17,7 +17,7 @@ A user-friendly image processing application built with **PyQt5**. This graphica
 
 - 🎨 **Regional_Segmentation**  
   Segment specific regions of the image for focused processing and analysis.
-  ![GUI Screenshot](Regional_Segmentationn.png)
+  ![GUI Screenshot](Regional_Segmentation.png)
 
 - 💾 **Save Processed Images**  
   Export the edited image with a single click.
